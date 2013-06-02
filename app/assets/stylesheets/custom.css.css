@@ -1,17 +1,4 @@
 /*
-Syntax error: File to import not found or unreadable: bootstrap.
-              Load paths:
-                /home/promoveo/rails_projects/sample_app/app/assets/stylesheets
-                /home/promoveo/rails_projects/sample_app/app/assets/stylesheets
-        on line 1 of ./custom.css.scss
-
-1: @import "bootstrap";
-2: 
-3: 
-4: /* mixins, varibles, etc. 
-5: 
-6: $grayMediumLight: #eaeaea; 
-
 Backtrace:
 ./custom.css.scss:1
 /home/promoveo/.rvm/gems/ruby-1.9.3-p392@rails3tutorial2ndEd/gems/sass-3.2.7/lib/sass/tree/import_node.rb:67:in `rescue in import'
