@@ -41,4 +41,4 @@ Backtrace:
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Syntax error: File to import not found or unreadable: bootstrap.\A               Load paths:\A                 /home/promoveo/rails_projects/sample_app/app/assets/stylesheets\A                 /home/promoveo/rails_projects/sample_app/app/assets/stylesheets\A         on line 1 of ./custom.css.scss\A \A 1: @import \"bootstrap\";\A 2: \A 3: \A 4: /* mixins, varibles, etc. */\A 5: \A 6: $grayMediumLight: #eaeaea;"; } */
+  content: "Syntax error: File to import not found or unreadable: bootstrap.\A               Load paths:\A                 /home/promoveo/rails_projects/sample_app/app/assets/stylesheets\A                 /home/promoveo/rails_projects/sample_app/app/assets/stylesheets\A         on line 1 of ./custom.css.scss\A \A 1: @import \"bootstrap\";\A 2: \A 3: \A 4: /* mixins, varibles, etc. \A 5: \A 6: $grayMediumLight: #eaeaea;"; } */
