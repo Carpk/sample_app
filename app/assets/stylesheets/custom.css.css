@@ -37,8 +37,8 @@ Backtrace:
 /home/promoveo/.rvm/gems/ruby-1.9.3-p392@rails3tutorial2ndEd/bin/sass:19:in `<main>'
 /home/promoveo/.rvm/gems/ruby-1.9.3-p392@rails3tutorial2ndEd/bin/ruby_noexec_wrapper:14:in `eval'
 /home/promoveo/.rvm/gems/ruby-1.9.3-p392@rails3tutorial2ndEd/bin/ruby_noexec_wrapper:14:in `<main>'
-*/
+*
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Syntax error: File to import not found or unreadable: bootstrap.\A               Load paths:\A                 /home/promoveo/rails_projects/sample_app/app/assets/stylesheets\A                 /home/promoveo/rails_projects/sample_app/app/assets/stylesheets\A         on line 1 of ./custom.css.scss\A \A 1: @import \"bootstrap\";\A 2: \A 3: \A 4: /* mixins, varibles, etc. */\A 5: \A 6: $grayMediumLight: #eaeaea;"; }
+  content: "Syntax error: File to import not found or unreadable: bootstrap.\A               Load paths:\A                 /home/promoveo/rails_projects/sample_app/app/assets/stylesheets\A                 /home/promoveo/rails_projects/sample_app/app/assets/stylesheets\A         on line 1 of ./custom.css.scss\A \A 1: @import \"bootstrap\";\A 2: \A 3: \A 4: /* mixins, varibles, etc. */\A 5: \A 6: $grayMediumLight: #eaeaea;"; } */
